@@ -11,8 +11,9 @@ dependencies:
   transformer_page_view: 
     git:
       url: https://github.com/subh2020/transformer_page_view.git 
-  flutter_page_indicator: ^0.0.3
-
+  flutter_page_indicator:
+    git:
+      url: https://github.com/subh2020/flutter_page_indicator.git 
 environment:
   sdk: ">=2.12.0 <4.0.0"
 
